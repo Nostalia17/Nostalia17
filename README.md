@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nostalia17</h1>
 <h3 align="center">A passionate back-end developer from Philippines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nostalia17&label=Profile%20views&color=0e75b6&style=flat" alt="nostalia17" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nostalia17&label=Profile%20views&color=0e75b6&style=flat" alt="Nostalia17" /> </p>
 
 - 🌱 I’m currently learning **HTML, JSS, CSS, PYTHON, C++, JAVA**
 
