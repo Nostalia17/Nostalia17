@@ -1,4 +1,7 @@
 # 💫 About Me:
+[<img src="https://raw.githubusercontent.com/Nostalia17/Nostalia17/master/intro.gif" alt="👋 Hi there! I'm Nostalia" title="👋 Hi there! I'm Nostalia17)"/>]
+
+
 - 🌱 I’m currently learning HTML, JSS, CSS, PYTHON, C++, JAVA<br><br>- 👨‍💻 All of my projects are available at [https://github.com/Nostalia17?tab=repositories](https://github.com/Nostalia17?tab=repositories)<br><br>- 💬 Ask me about Anything that pique you're interest<br><br>- 📫 How to reach me  at j.edwinreyes17@gmail.com<br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nostalia17&label=Profile%20views&color=0e75b6&style=flat" alt="Nostalia17" /> </p>
