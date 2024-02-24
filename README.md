@@ -28,7 +28,7 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nostalia17&layout=compact&theme=dark" alt=Nostalia17 />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nostalia17&layout=compact&theme=dark" alt=Nostalia17 />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Nostalia17&show_icons=true&locale=en&theme=dark" alt="Nostalia17" /></p>
 
