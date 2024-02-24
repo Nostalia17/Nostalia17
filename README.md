@@ -1,7 +1,7 @@
 # 💫 About Me:
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Nostalia17)" title="👋 Hi there! I'm (Nostalia17)|https://Nostalia.17)"/>](https://Nostalia.17/)
+[<img src="https://raw.githubusercontent.com/Nostalia17/Nostalia17/master/intro.gif" alt="👋 Hi there! I'm (Nostalia17)" title="👋 Hi there! I'm (Nostalia17)|https://Nostalia.17)"/>](https://Nostalia.17/)
 
-![visitors](https://vbr.nathanchung.dev/badge?page_id=Raymo111.Raymo111&color=00cf00)
+
 
 
 - 🌱 I’m currently learning HTML, JSS, CSS, PYTHON, C++, JAVA<br><br>- 👨‍💻 All of my projects are available at [https://github.com/Nostalia17?tab=repositories](https://github.com/Nostalia17?tab=repositories)<br><br>- 💬 Ask me about Anything that pique you're interest<br><br>- 📫 How to reach me  at j.edwinreyes17@gmail.com<br><br>
