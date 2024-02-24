@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nostalia17</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nostalia17&label=Profile%20views&color=0e75b6&style=flat" alt="Nostalia17" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nostalia17&theme=" alt="Nostalia17" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nostalia17&theme=dracula" alt="Nostalia17" /></a> </p>
 
 - 🌱 I’m currently learning **C++, HTML, JSS, CSS, PYTHON, JAVA**
 - 💬 Ask me about **anything that pique your interest**
